@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+header { 
+    background-color: #333;
+    color: #fff;
+    padding: 50px; 
+    text-align: center; 
+    z-index: 2rem;
+    }
+    .logo {
+        border:1px solid black;
+        border-radius:500px;
+        position:absolute;
+        top:2%;
+        left:88%;
+        
+    }
+.tel {
+    width: 30px;
+    border:1px solid black;
+    border-radius: 500px;
+}
+.pres {
+    margin:0 6%;
+}
+body {
+    background-color: gray;
+}
+.cartes {
+    border: 2px solid black;
+    margin: 6px;
+}
+h2 {
+    text-align: center;
+    border:3px solid red;
+    border-radius: 5px;
+    background-color:yellow;
+}
+h3 {
+    text-align: center;
+}
+.M{
+    margin:0 2%;
+    border: 50px solid black inset;
+}
+nav a { 
+    text-decoration: none; 
+    color: #fff; 
+    font-weight: bold;
+    } 
+#main-content { 
+    padding: 20px;
+    margin:2%;
+    }
+footer { 
+    background-color: #333;
+    color: #fff;
+    position:fixed;
+    z-index: 2rem;
+    text-align: center; 
+    padding: 10px;
+    bottom: 0; 
+    width: 100%; }
+    .footer {
+        border:3px solid red;
+        border-radius: 5px;
+        padding:10px;
+        background-color:yellow;
+        margin-bottom: 40px;
+    }
